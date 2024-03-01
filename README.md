@@ -59,8 +59,9 @@ A Point of Sale web app for businesses built with Python and Django for learning
   6. Install MSYS2:
   ` Before see video how to install step by step progress`
   ` MSYS2 Install Tutorials:`
-   `Link:https://www.youtube.com/watch?v=rUJFYOCbuDg&t=844s`
-  ` Link: https://www.msys2.org/`
+  - `Link:https://www.youtube.com/watch?v=rUJFYOCbuDg&t=844s`
+    
+  - ` Link: https://www.msys2.org/`
   
   7. Windows Users (IMPORTANT)‼:
 
