@@ -29,7 +29,7 @@ A Point of Sale web app for businesses built with Python and Django for learning
 
 ## Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, Boostrap, SweetAlert, DataTables
+- Frontend: HTML, CSS, JavaScript, Bootstrap, SweetAlert, DataTables
 - Backend: Django, Python, Ajax, SQLite 
 
 ## Installation
@@ -115,7 +115,7 @@ After restarting your computer
 
    and You can log in:
 
-   Name: zafir
+   Name: zafir,
    Password: Zafir*123
 
 6. Run the server: `python manage.py runserver`
