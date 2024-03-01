@@ -48,7 +48,7 @@ A Point of Sale web app for businesses built with Python and Django for learning
 
   2. Go to the project directory
 
-  ` cd django_pos`
+   ` cd django_pos`
 
   3. Install dependencies:  
   ` pip install -r requirements.txt`
@@ -75,10 +75,10 @@ A Point of Sale web app for businesses built with Python and Django for learning
      Only Windows 10/11 64-bit is supported ‼
 
      GTX3 2021 Installation and Automatically Path environment you need Recommended Install GTX3 2021: 
-     Link: (https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases/download/2021-04-29/gtk3-runtime-3.24.29-2021-04-29-ts-win64.exe)
+     [Click Download GTX3 2021](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases/download/2021-04-29/gtk3-runtime-3.24.29-2021-04-29-ts-win64.exe)
 
      you write in the terminal this ( weasyprint --info ) and you see no error and error any problems.
-     Link: (https://www.cnblogs.com/melloliana/p/16098061.html)
+     [Read](https://www.cnblogs.com/melloliana/p/16098061.html)
 
      After installing GTK, you must add it to your system's Path environment variable. Follow these steps:
 
