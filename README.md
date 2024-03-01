@@ -21,7 +21,7 @@ A Point of Sale web app for businesses built with Python and Django for learning
 ## Features
 - Login Page with User authentication
 - Dashboard Page with statistics and graphs
-- DataTables with print, copy, to CSV, and to PDF buttons
+- DataTables with print, copy, CSV, and PDF buttons
 - Categories and Products Management
 - Clients Management
 - Sales Management
@@ -62,9 +62,9 @@ A Point of Sale web app for businesses built with Python and Django for learning
   
   ` MSYS2 Install Tutorials:`
   
-  - `Link:https://www.youtube.com/watch?v=rUJFYOCbuDg&t=844s`
+  - Link: (https://www.youtube.com/watch?v=rUJFYOCbuDg&t=844s)
     
-  - ` Link: https://www.msys2.org/`
+  - Link: (https://www.msys2.org/)
 
   7. Install GTK to create the PDF files:
      
@@ -110,11 +110,16 @@ After restarting your computer
     password: admin,
     email: admin@admin`
 
-5. Run the server: `python manage.py runserver`
+   and You can log in:
 
-6. Open a browser and go to: `http://127.0.0.1:8000/`
+   Name: zafir
+   Password: Zafir*123
 
-7. Log In with your superuser credentials.
+6. Run the server: `python manage.py runserver`
+
+7. Open a browser and go to: `http://127.0.0.1:8000/`
+
+8. Login with your superuser credentials.
     
 
 ## Contributing
@@ -131,7 +136,7 @@ Contributions are always welcome!
 
 ## Authors
 
-- [@zafirabdullah](https://www.github.com/betofleitass)
+- [@zafirabdullah](https://github.com/Zafir547)
 
 ##  License
 
