@@ -57,31 +57,38 @@ A Point of Sale web app for businesses built with Python and Django for learning
   ` python -m pip install --upgrade pip setuptools`  
   
   6. Install MSYS2:
-  ` Before see video how to install step by step progress`
+     
+  ` Before seeing the video on how to install step-by-step progress.`
+  
   ` MSYS2 Install Tutorials:`
+  
   - `Link:https://www.youtube.com/watch?v=rUJFYOCbuDg&t=844s`
     
   - ` Link: https://www.msys2.org/`
+
+  7. Install GTK to create the PDF files:
+     
+   [Official documentation](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#installation)  
   
-  7. Windows Users (IMPORTANT)‼:
+  8. Windows Users (IMPORTANT)‼:
 
      Only Windows 10/11 64-bit is supported ‼
 
      `GTX3 2021 Install Link: https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases/download/2021-04-29/gtk3-runtime-3.24.29-2021-04-29-ts-win64.exe`
 
-     After installing GTK, you need to add it to your system's Path environment variable. Follow these steps:
+     After installing GTK, you must add it to your system's Path environment variable. Follow these steps:
 
       - Assuming you installed GTK at:
         `C:\Program Files\GTK3-Runtime Win64\bin`  
-        This will be your new variable that you need to add to Path
+        This will be the new variable that you need to add to Path and Automatically Path environment you need Recommended Install GTX3 2021
         
       - Refer to this tutorial for detailed instructions on adding to the Path environment variable:
-        [Tutorial add to the Path enviroment variable](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/)  
+        [Tutorial add to the Path environment variable](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/)  
     
       - If you encounter an error such as "cannot load library," refer to this documentation for troubleshooting:
         [Missing Library Error](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#missing-library)  
   
-  9. Restart your computer: After completing the steps above, it is essential to restart your computer for the changes to take effect properly. ‼
+  9. Restart your computer: After you complete the steps above, you will need to restart your computer for the changes to take effect properly. ‼
   
 ## Run it locally
 After restarting your computer
