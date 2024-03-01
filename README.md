@@ -74,14 +74,17 @@ A Point of Sale web app for businesses built with Python and Django for learning
 
      Only Windows 10/11 64-bit is supported ‼
 
-     GTX3 2021 Installation: 
+     GTX3 2021 Installation and Automatically Path environment you need Recommended Install GTX3 2021: 
      Link: (https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases/download/2021-04-29/gtk3-runtime-3.24.29-2021-04-29-ts-win64.exe)
+
+     you write in the terminal this ( weasyprint --info ) and you see no error and error any problems.
+     Link: (https://www.cnblogs.com/melloliana/p/16098061.html)
 
      After installing GTK, you must add it to your system's Path environment variable. Follow these steps:
 
       - Assuming you installed GTK at:
         `C:\Program Files\GTK3-Runtime Win64\bin`  
-        This will be the new variable that you need to add to Path and Automatically Path environment you need Recommended Install GTX3 2021
+        This will be the new variable that you need to add to Path.
         
       - Refer to this tutorial for detailed instructions on adding to the Path environment variable:
         [Tutorial add to the Path environment variable](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/)  
@@ -89,7 +92,7 @@ A Point of Sale web app for businesses built with Python and Django for learning
       - If you encounter an error such as "cannot load library," refer to this documentation for troubleshooting:
         [Missing Library Error](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#missing-library)  
   
-  9. Restart your computer: After you complete the steps above, you will need to restart your computer for the changes to take effect properly. ‼
+  10. Restart your computer: After you complete the steps above, you will need to restart your computer for the changes to take effect properly. ‼
   
 ## Run it locally
 After restarting your computer
