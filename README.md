@@ -109,13 +109,13 @@ After restarting your computer
 4. Create superuser `python manage.py createsuperuser` 
   
    with the following data, or with the data you prefer:
-    -username: admin
-    -password: admin
-    -email: admin@admin
+    - username: admin
+    - password: admin
+    - email: admin@admin
 
    and You can log in:
-   -Name: zafir
-   -Password: Zafir*123
+   - Name: zafir
+   - Password: Zafir*123
 
 6. Run the server: `python manage.py runserver`
 
