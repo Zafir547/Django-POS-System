@@ -4,7 +4,7 @@ A Point of Sale web app for businesses built with Python and Django for learning
 
 <a><img src="https://raw.githubusercontent.com/Zafir547/Django-POS-System/main/screenshots/Dashboard.JPG" width="70%" heigth="70%"></a>
 <br></br>
-<a><img src="https://user-images.githubusercontent.com/95726794/212497784-80a48617-759c-4415-aa1c-4591b9892c3d.png" width="70%" heigth="70%"></a>
+<a><img src="https://raw.githubusercontent.com/Zafir547/Django-POS-System/main/screenshots/Add%20Sales.JPG" width="70%" heigth="70%"></a>
 
 ## Table of Contents:
 - [Features](#features)
