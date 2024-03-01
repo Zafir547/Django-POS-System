@@ -114,9 +114,8 @@ After restarting your computer
     email: admin@admin`
 
    and You can log in:
-
-   Name: zafir,
-   Password: Zafir*123
+   `Name: zafir,
+   Password: Zafir*123`
 
 6. Run the server: `python manage.py runserver`
 
