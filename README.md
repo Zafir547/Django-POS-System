@@ -74,7 +74,8 @@ A Point of Sale web app for businesses built with Python and Django for learning
 
      Only Windows 10/11 64-bit is supported ‼
 
-     `GTX3 2021 Install Link: https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases/download/2021-04-29/gtk3-runtime-3.24.29-2021-04-29-ts-win64.exe`
+     GTX3 2021 Installation: 
+     Link: (https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases/download/2021-04-29/gtk3-runtime-3.24.29-2021-04-29-ts-win64.exe)
 
      After installing GTK, you must add it to your system's Path environment variable. Follow these steps:
 
